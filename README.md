@@ -2,7 +2,6 @@
 ========================
 
 # install vue/cli globally
--------------------------
 - npm i -g @vue/cli
 
 
