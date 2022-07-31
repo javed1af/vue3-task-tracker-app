@@ -21,7 +21,7 @@
     {
       "text": "Food shopping1",
       "day": "33",
-      "reminder": true,
+      "reminder": false,
       "id": "YQAHYO0"
     }
   ]
